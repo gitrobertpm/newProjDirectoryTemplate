@@ -1,7 +1,7 @@
 # newProjDirectoryTemplate
 A basic directory template for starting a new project
 
-To simplify, automate and speed up the process of beginning a new project, I have a new project directory sitting on my desktop  It's still fairly small and basic, but has grown and mutated over time, and I imagine that process is far from complete.
+To simplify, automate and speed up the process of beginning a new project, I have a new project directory sitting on my desktop.  It's still fairly small and basic, but has grown and mutated over time, and I imagine that process is far from complete.
 But so far...
 
 **Directory includes**
@@ -21,3 +21,9 @@ But so far...
   - **smoothscroll.js** - https://github.com/galambalazs/smoothscroll-for-websites, a cool library that helps pages do just what the title suggests
   - **classList.min.js** - https://github.com/eligrey/classList.js, a poly fill that helps **IE** work with the **classList method** (doesn't work in **IE 7 or older**)
   - **myScripts.js**, a bare bones starter file with a few general variables and pre-commented sections  
+
+I am mainly using this repository as a back-up and master file of sorts.
+
+I hope to add and refine this collection over time.
+
+Feel welcome to use any of this if it helps you.  I only ask that you respect and follow any licensing requirements.
